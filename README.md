@@ -80,17 +80,6 @@ pip install -r requirements.txt
 ### Run the Jupyter Notebook
 jupyter notebook anomaly_detection.ipynb
 
----
-
-## Project Structure
-
-anomaly-detection-dbscan/
-├── anomaly_detection.ipynb     ← Main project notebook
-├── dbscan_model.pkl            ← Saved model for future use
-├── scaler.pkl                  ← StandardScaler used for preprocessing
-├── requirements.txt            ← Dependencies
-├── plots/                      ← PCA & evaluation images
-└── README.md                   ← Project documentation
-
+--
 
 

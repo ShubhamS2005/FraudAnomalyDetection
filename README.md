@@ -34,7 +34,7 @@ Visual inspection using **PCA** and metrics like **Silhouette Score** and **Conf
 - 📍 Source: [Kaggle – Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - 📦 Total Records: 284,807
 - ⚠️ Class Distribution: 0 = Normal, 1 = Fraud (~0.17%)
-- Features: 28 anonymized (V1–V28) + Time + Amount
+- Features: 28 anonymized (V1–V28) , Time and Amount
 
 ---
 

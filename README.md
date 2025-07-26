@@ -47,7 +47,7 @@ Visual inspection using **PCA** and metrics like **Silhouette Score** and **Conf
 | Programming    | Python 3.8+                                  |
 | Data Handling  | pandas, numpy                                |
 | ML Algorithms  | scikit-learn (DBSCAN, PCA, StandardScaler)   |
-| Evaluation     | sklearn.metrics (confusion matrix, F1 score) |
+| Evaluation     | sklearn.metrics  |
 | Visualization  | matplotlib, seaborn                          |
 | Model Saving   | joblib                                       |
 

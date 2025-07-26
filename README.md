@@ -67,19 +67,30 @@ Visual inspection using **PCA** and metrics like **Silhouette Score** and **Conf
 ## How to run this Project
 
 ### Clone the repository
+```bash
 git clone https://github.com/ShubhamS2005/FraudAnomalyDetection.git
 cd anomaly-detection-dbscan
-
+```
+---
 ### (Optional) Create a virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
+```
+---
 ### Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
+---
 ### Run the Jupyter Notebook
+```bash
 jupyter notebook anomaly_detection.ipynb
+```
+## Author
+Developed by Shubham Srivastava \
+If you use or adapt this work, please consider citing or giving credit.
 
---
-
-
+## License
+This project is currently under development and does not have a formal license. \
+A suitable open-source license (e.g., MIT, Apache 2.0) will be added upon final release.
